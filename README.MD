@@ -2,7 +2,6 @@
 <img
     src="./assets/capa-podcast.png"
     width="300"
-    style="border-radius: 50%"
 />
 </p>
 
@@ -56,7 +55,7 @@ Foram utilizados prompts no **ChatGPT** e **Perplexity** nas etapas do processo 
 
 ## 📚 Materiais de apoio
 
-- Template de [criação de Podcast](https://www.notion.so/PAS-Podcast-AI-Studio-1f46c298a2828087b788ff37b7185172?pvs=4) no Notion
+- Template de [criação de Podcast](https://www.notion.so/PAS-Podcast-AI-Studio-1f56c298a28280ba90cfde4686b780cd?pvs=4) no Notion
 - [Prompts utilizados](https://www.notion.so/PAS-Podcast-AI-Studio-1f56c298a28280ba90cfde4686b780cd?pvs=4#1f56c298a28281209e95d87aea8e8e7a)
 - [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
 
@@ -74,9 +73,9 @@ Para isso siga o passo a passo abaixo.
 Conheça o podcast criado: **A Rebelião dos Alt: O Despertar da Inclusão**.
 
 Onde ouvir o***🎙️Ep 01 - “Acessibilidade Digital: O Código Que Liberta”***
-- no [template](https://www.notion.so/PAS-Podcast-AI-Studio-1f46c298a2828087b788ff37b7185172?pvs=4) do Notion
+- no [template](https://www.notion.so/PAS-Podcast-AI-Studio-1f56c298a28280ba90cfde4686b780cd?pvs=4) do Notion
 - no player no começo dessa página
-- executando o arquivo mp3 na pasta [output](https://MichelleCordeiro.github.io/prompts-for-podcast-generate-by-ia/output) desse repositório
+- executando o arquivo mp3 na pasta [output](https://github.com/MichelleCordeiro/prompts-for-podcast-generate-by-ia/tree/main/output) desse repositório
 
 
 ## 🎯 Dicas
@@ -93,7 +92,7 @@ Onde ouvir o***🎙️Ep 01 - “Acessibilidade Digital: O Código Que Liberta�
 | Conteúdo do roteiro                                   |  ✅ ✅  |            |
 | Após o criar o conteúdo do roteiro                    |   ✅    |     ✅     |
 
-Mais detalhes sobre o comparativo entre  ChatGPT x Perplexity na [Batalha de IAs](https://MichelleCordeiro.github.io/prompts-for-podcast-generate-by-ia)
+Mais detalhes sobre o comparativo entre  ChatGPT x Perplexity na [Batalha de IAs](https://github.com/MichelleCordeiro/prompts-for-podcast-generate-by-ia/blob/main/Batalha_de_IAs.md)
 
 ## 👩🏼‍💻 Expert
 
@@ -101,8 +100,7 @@ Mais detalhes sobre o comparativo entre  ChatGPT x Perplexity na [Batalha de IAs
     <img
       align=left
       width=70
-      style="border-radius: 20px"
-      src="https://github.com/MichelleCordeiro.png"
+      src="./assets/author-round.png"
     />
     <p style="padding-top:10px">&nbsp&nbspMichelle Cordeiro<br>
         &nbsp
