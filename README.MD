@@ -1,99 +1,123 @@
 <p align="center">
-<img 
-    src="./assets/cover.png"
+<img
+    src="./assets/capa-podcast.png"
     width="300"
+    style="border-radius: 50%"
 />
 </p>
 
 <p align="center">
 <a href="https://dio.me/">
-    <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
+    <img
+        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube"
         alt="DIO - Code The Future">
 </a>
 <a href="https://dio.me/">
-<img 
-    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
+<img
+    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72"
     alt="🔴 LIVE CODE">
 </a>
 </p>
 
-<p align="center">
-    preview do podcast
-</p>
 
 <div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
+    <audio src="output/podcast_ep01_modifided.mp3" controls title="Podcast editado"></audio>
+    <p align="center">
+        Preview do podcast
+    </p>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+Esse projeto tem o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts avançados.
 
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+Foram utilizados prompts no **ChatGPT** e **Perplexity** nas etapas do processo criativo, obtendo sugestões de nomes e criando o roteiro do episódio. O **ElevenLabs** gerou o audio com base no roteiro obtido e o **Stability** foi utilizado para criar imagens para as capas do Podcast e do primeiro episódio.
 
-## 💻 Tecnologias utilizadas no projeto
+ > ℹ️ **NOTE:** Baseado no repositório utilizado no Bootcamp Microsoft 50 Anos - Prompts Inteligentes da [DIO](https://dio.me)
 
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+
+
+## 💻 Tecnologias utilizadas
+
+- [ChatGPT](https://chat.openai.com/)
+- [Perplexity](https://www.perplexity.ai/)
+~~- [MidJourney](https://www.perplexity.ai/)~~
+- [Stability](https://dreamstudio.stability.ai/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
-## ✨ Como foi feito ?
-
-- Roteiro gerado via chatgpt
+## ✨ Etapas
+- Roteiro gerado via chatgpt e perplexity - decisões tomadas comparando as saídas das duas ferramentas
 - Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
+- Stability para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 
-## 📚 Materiais
+## 📚 Materiais de apoio
 
-- [Link da live no Youtube](https://www.youtube.com)
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
+- Template de [criação de Podcast](https://www.notion.so/PAS-Podcast-AI-Studio-1f46c298a2828087b788ff37b7185172?pvs=4) no Notion
+- [Prompts utilizados](https://www.notion.so/PAS-Podcast-AI-Studio-1f56c298a28280ba90cfde4686b780cd?pvs=4#1f56c298a28281209e95d87aea8e8e7a)
 - [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
 
 
-## 🛠️ Instruções de execução
+## 🛠️ Instruções
 
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
+Utilize os prompts fornecidos  na parte de `Materiais`  para criar um podcast de maneira automatizada.
+Para isso siga o passo a passo abaixo.
 
-- 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
+- 🤖 1. Use os prompts **Roterista** no `chatGPT`/`Perplexity` ou outro qualquer da sua preferência
+- 🤖 2. Use os prompts de roteiro gerados no  `ElevenLabs`
+- 🤖 3. Use os prompts **Artista** no `stability`
 
-## 👨‍💻 Expert
+## 🎙️Ouça
+Conheça o podcast criado: **A Rebelião dos Alt: O Despertar da Inclusão**.
+
+Onde ouvir o***🎙️Ep 01 - “Acessibilidade Digital: O Código Que Liberta”***
+- no [template](https://www.notion.so/PAS-Podcast-AI-Studio-1f46c298a2828087b788ff37b7185172?pvs=4) do Notion
+- no player no começo dessa página
+- executando o arquivo mp3 na pasta [output](https://MichelleCordeiro.github.io/prompts-for-podcast-generate-by-ia/output) desse repositório
+
+
+## 🎯 Dicas
+- Após escolher o nome do poscast já informe qual o nome escolhido, antes mesmo de partir para o roteiro. Com isso  você terá a oportunidade de receber infomações valiosas que talvez não pedisse nas consultas futuras
+- Use prompt em inglês nas IAs que geram imagens
+- Observe se o prompt disponibiliza itens relacionados após as respostas
+
+
+## 🦾 ChatGPT x Perplexity
+|        Ação                                           | ChatGPT | Perplexity |
+|-------------------------------------------------------|---------|------------|
+| Sugestões de nomes                                    |   ✅    |     ✅     |
+| Sugestões volutárias após informar o nome escolhido   |         |    ✅ ✅   |
+| Conteúdo do roteiro                                   |  ✅ ✅  |            |
+| Após o criar o conteúdo do roteiro                    |   ✅    |     ✅     |
+
+Mais detalhes sobre o comparativo entre  ChatGPT x Perplexity na [Batalha de IAs](https://MichelleCordeiro.github.io/prompts-for-podcast-generate-by-ia)
+
+## 👩🏼‍💻 Expert
 
 <p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+    <img
+      align=left
+      width=70
+      style="border-radius: 20px"
+      src="https://github.com/MichelleCordeiro.png"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/felipeAguiarCode">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="www.linkedin.com/in/felipe-exe">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
-    </a>
-    &nbsp;|&nbsp;</p>
-</p>
+    <p style="padding-top:10px">&nbsp&nbspMichelle Cordeiro<br>
+        &nbsp
+        <a href="https://github.com/MichelleCordeiro">
+            GitHub
+        </a>
+        &nbsp;|&nbsp;
+        <a href="https://www.linkedin.com/in/michelle-cordeiro">
+            LinkedIn
+        </a>
+        |
+    </p>
 <br/><br/>
 <p>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ Adaptado de [Felipe Aguiar](https://github.com/felipeAguiarCode)
