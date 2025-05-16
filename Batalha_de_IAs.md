@@ -18,6 +18,7 @@
 </a>
 </p>
 
+<br>
 
 # Batalha de IAs
 <br>
@@ -44,29 +45,41 @@
 - Escolha do nome - respostas similares
 
 ChatGPT
+
 ![Sugestão de nome ChatGPT](./assets/nomeGPT.png)
+
 Perplexit
+
 ![Sugestão de nome Perplexit](./assets/nomePerplexity.png)
 
 - Após informar o nome escolhido - ❤️‍🔥❤️‍🔥❤️‍🔥 Perplexity massacrou o Gepeto com sugestões voluntárias
 
 ChatGPT
+
 ![Conteúdo após informar nome escolhido no ChatGPT](./assets/nomeC.png)
+
 Perplexit
+
 ![Conteúdo após informar nome escolhido no Perplexit](./assets/nomeP.png)
 
 - Conteúdo do roteiro - agora o ChatGPT deixou o outro perplexo 😲 com a "personalidade" do texto
 
 ChatGPT
+
 ![Conteúdo do podcast no ChatGPT](./assets/conteudoC.png)
+
 Perplexit
+
 ![Conteúdo do podcast no Perplexit](./assets/conteudoP.png)
 
 - Após o criar o conteúdo do roteiro - o ChatGPT sugeriu ainda mais personalizações, enquanto o Perplexity já tava focando no próximo episódio
 
 ChatGPT
+
 ![Conteúdo do podcast no ChatGPT](./assets/aposConteudoC.png)
+
 Perplexit
+
 ![Conteúdo do podcast no Perplexit](./assets/aposConteudoP.png)
 
 <br>
@@ -79,7 +92,7 @@ Perplexit
       margin=5
       width=80
       style="border-radius: 10px"
-      src="https://github.com/MichelleCordeiro.png"
+      src="./assets/author-round.png"
     />
     <p>&nbsp&nbspMichelle Cordeiro<br>
     &nbsp

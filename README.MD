@@ -19,12 +19,14 @@
 </p>
 
 
-<div align="center">
+<!-- <div align="center">
     <audio src="output/podcast_ep01_modifided.mp3" controls title="Podcast editado"></audio>
     <p align="center">
         Preview do podcast
     </p>
-</div>
+</div> -->
+
+<br>
 
 # Projeto Podcast Gerado por I.A.s
 
@@ -56,7 +58,7 @@ Foram utilizados prompts no **ChatGPT** e **Perplexity** nas etapas do processo 
 ## 📚 Materiais de apoio
 
 - Template de [criação de Podcast](https://www.notion.so/PAS-Podcast-AI-Studio-1f56c298a28280ba90cfde4686b780cd?pvs=4) no Notion
-- [Prompts utilizados](https://www.notion.so/PAS-Podcast-AI-Studio-1f56c298a28280ba90cfde4686b780cd?pvs=4#1f56c298a28281209e95d87aea8e8e7a)
+    - Prompts utilizados
 - [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
 
 
@@ -74,7 +76,7 @@ Conheça o podcast criado: **A Rebelião dos Alt: O Despertar da Inclusão**.
 
 Onde ouvir o***🎙️Ep 01 - “Acessibilidade Digital: O Código Que Liberta”***
 - no [template](https://www.notion.so/PAS-Podcast-AI-Studio-1f56c298a28280ba90cfde4686b780cd?pvs=4) do Notion
-- no player no começo dessa página
+<!-- - no player no começo dessa página -->
 - executando o arquivo mp3 na pasta [output](https://github.com/MichelleCordeiro/prompts-for-podcast-generate-by-ia/tree/main/output) desse repositório
 
 
